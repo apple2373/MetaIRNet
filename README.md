@@ -138,7 +138,6 @@ This should give you the accuracy of 0.84129.
 In addition to the acknowgement in the paper, I would like to thank these repositories where I borrowed some code. The borrowed part is mentioned in the comments. 
  - https://github.com/Clarifai/few-shot-ctm/blob/b482e8bb2b025584c866fdc06d1abdc8f99943f4/tools/download_gdrive.py
  - https://github.com/nogu-atsu/small-dataset-image-generation
- - https://github.com/oscarknagg/few-shot/blob/master/few_shot/utils.py
  - https://github.com/facebookresearch/mixup-cifar10/blob/eaff31ab397a90fbc0a4aac71fb5311144b3608b/train.py
  - https://github.com/oscarknagg/few-shot
  - https://github.com/wyharveychen/CloserLookFewShot/
