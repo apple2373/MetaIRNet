@@ -4,7 +4,7 @@
 This is a official implementation of our paper from NeurIPS 2019:
  Meta-Reinforced Synthetic Data for One-Shot Fine-Grained Visual Recognition. 
  
-Projet Page: http://vision.soic.indiana.edu/metairnet/
+Project Page: http://vision.soic.indiana.edu/metairnet/
 
 We introduce an effective way to employ an ImageNet-pre-trained image
 generator for the purpose of improving fine-grained one-shot
