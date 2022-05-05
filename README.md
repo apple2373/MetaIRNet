@@ -1,8 +1,10 @@
 
-# Meta-Reinforced Synthetic Data for One-Shot Fine-Grained Visual Recognition
+# MetaIRNet
 
-This is a official implementation of our paper from NeurIPS 2019:
- Meta-Reinforced Synthetic Data for One-Shot Fine-Grained Visual Recognition. 
+This is the official implementation of our papers.
+- Meta-Reinforced Synthetic Data for One-Shot Fine-Grained Visual Recognition (NeurIPS 2019)
+- Satoshi Tsutsui, Yanwei Fu, and David Crandall. (2022). Reinforcing Generated Images via Meta-learning for One-Shot Fine-Grained Visual Recognition. IEEE Transactions on Pattern Analysis and Machine Intelligence (PAMI). Accepted, To Appear. 
+- Satoshi Tsutsui, Yanwei Fu, and David Crandall. (2019). Meta-Reinforced Synthetic Data for One-Shot Fine-Grained Visual Recognition. Advances in Neural Information Processing Systems (NeurIPS).
  
 Project Page: http://vision.soic.indiana.edu/metairnet/
 
