@@ -2,7 +2,7 @@
 # MetaIRNet
 
 This is the official implementation of our papers.
-- Satoshi Tsutsui, Yanwei Fu, and David Crandall. (2022). Reinforcing Generated Images via Meta-learning for One-Shot Fine-Grained Visual Recognition. IEEE Transactions on Pattern Analysis and Machine Intelligence (PAMI). Accepted, To Appear. 
+- Satoshi Tsutsui, Yanwei Fu, and David Crandall. (2022). Reinforcing Generated Images via Meta-learning for One-Shot Fine-Grained Visual Recognition. IEEE Transactions on Pattern Analysis and Machine Intelligence (PAMI). 46(3), 1455-1463.
 - Satoshi Tsutsui, Yanwei Fu, and David Crandall. (2019). Meta-Reinforced Synthetic Data for One-Shot Fine-Grained Visual Recognition. Advances in Neural Information Processing Systems (NeurIPS).
  
 Project Page: http://vision.soic.indiana.edu/metairnet/
@@ -38,8 +38,17 @@ Our Meta Image Reinforcing Network (MetaIRNet) has
 We show samples of original image, generated image, fused image,  and mixing weight. 
 Higher weight (red) means more original image used, and lower weight (blue) means more generated image used.
 
-If you find this code useful, please consider to cite the following paper. 
+If you find this code useful, please consider to cite the following papers. 
 ```
+@article{tsutsui2022bird,
+	author = {Tsutsui, Satoshi and Fu, Yanwei and Crandall, David},
+	journal = {IEEE Transactions on Pattern Analysis and Machine Intelligence (PAMI)},
+	number = {3},
+	pages = {1455-1463},
+	title = {Reinforcing Generated Images via Meta-learning for One-Shot Fine-Grained Visual Recognition},
+	volume = {46},
+	year = {2022}
+}
 @inproceedings{metasatoshi19,
     author={Satoshi Tsutsui, Yanwei Fu, David Crandall},
     booktitle	= {Advances in Neural Information Processing Systems (NeurIPS)},
